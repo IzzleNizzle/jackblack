@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jackblack/static/css/main.2cce8147.chunk.css",
+    "main.js": "/jackblack/static/js/main.0fa1f9a3.chunk.js",
+    "main.js.map": "/jackblack/static/js/main.0fa1f9a3.chunk.js.map",
+    "runtime~main.js": "/jackblack/static/js/runtime~main.b3c33d63.js",
+    "runtime~main.js.map": "/jackblack/static/js/runtime~main.b3c33d63.js.map",
+    "static/js/2.35d809c1.chunk.js": "/jackblack/static/js/2.35d809c1.chunk.js",
+    "static/js/2.35d809c1.chunk.js.map": "/jackblack/static/js/2.35d809c1.chunk.js.map",
+    "index.html": "/jackblack/index.html",
+    "precache-manifest.465dc8e7ccd9ceb90a05d1b0e6cddfc2.js": "/jackblack/precache-manifest.465dc8e7ccd9ceb90a05d1b0e6cddfc2.js",
+    "service-worker.js": "/jackblack/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/jackblack/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/jackblack/static/media/logo.5d5d9eef.svg"
+  }
+}
