@@ -4,8 +4,9 @@ import { MyProvider } from './AppContext';
 import CardList from './components/CardList';
 import SeeWhoWins from './components/SeeWhoWins';
 import './App.css';
-import LikeButton from 'feedbackizzle'
+import LikeButton, { helpful } from 'feedbackizzle'
 
+helpful()
 function App() {
   return (
     <div>
