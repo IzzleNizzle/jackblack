@@ -4,6 +4,7 @@ import { MyProvider } from './AppContext';
 import CardList from './components/CardList';
 import SeeWhoWins from './components/SeeWhoWins';
 import './App.css';
+import LikeButton from 'feedbackizzle'
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       <MyProvider>
         <CardList />
         <SeeWhoWins />
-        {/* <CardList /> */}
+        <LikeButton />
       </MyProvider>
     </div>
   );
