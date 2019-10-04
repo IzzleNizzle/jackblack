@@ -4,9 +4,9 @@
   "homepage": "http://izzlenizzle.github.io/jackblack",
   "private": true,
   "dependencies": {
-    "feedbackizzle": "^1.0.7",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "feedbackizzle": "^1.0.9",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
     "react-scripts": "3.1.1"
   },
   "scripts": {
